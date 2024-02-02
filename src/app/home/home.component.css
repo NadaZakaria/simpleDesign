@@ -1,0 +1,6 @@
+#home{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7) 0% 100%), url(../../assets/imgaes/beautiful-mountains-ratchaprapha-dam-khao-sok-national-park-surat-thani-province-thailand.jpg);
+    height: 100vh;
+    background-position: center center;
+    background-size: cover;
+}
